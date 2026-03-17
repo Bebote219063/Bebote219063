@@ -71,7 +71,7 @@ public class Desarrollador {
 | Certificacion | Plataforma |
 |:-------------:|:----------:|
 | Networking Essentials | Cisco |
-| AWS Cloud Practitioner | Amazon Web Services |
+| AWS Academy Cloud Foundations | Amazon Web Services |
 
 </div>
 
